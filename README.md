@@ -28,4 +28,5 @@ Criar uma cápsula do tempo digital acessada por visitantes do ano 3025, contend
 3. Experimente o museu virtual!
 
 ## 👥 Equipe
-Projeto fictício por [Seu Nome Aqui]
+Projeto fictício por Guilherme, Mauro, Ruan e Radmilly
+

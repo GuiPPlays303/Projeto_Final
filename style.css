@@ -59,7 +59,15 @@ article h3 {
   margin-top: 1rem;
 }
 
+#galaxy_s25 {
+  
+}
+
 #invencoes img {
+  max-width: 500px;
+}
+
+#moda img {
   max-width: 500px;
 }
 
